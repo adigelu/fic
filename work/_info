@@ -1,0 +1,326 @@
+m255
+K3
+13
+cModel Technology
+dC:\Windows\System32
+vACC
+ISRlHg>k`K_HSTj>o6Ph561
+VfKX=HX>I[D4`lRfU=I?]22
+Z0 dC:\Users\adyma\Desktop\fic
+w1704466470
+8C:/Users/adyma/Desktop/fic/ACC.v
+FC:/Users/adyma/Desktop/fic/ACC.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+31
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -O0
+n@a@c@c
+!s100 Wg>d9`HT?>8Ob>hQ`zFNn3
+!s85 0
+!s101 -O0
+vALU
+I6OT5RLzZdd[ECb5g<z0@V2
+V>3kbTQS?E7RM?@iTL1bFX2
+Z4 dC:\Users\adyma\Desktop\fic
+w1704907011
+8C:/Users/adyma/Desktop/fic/ALU.v
+FC:/Users/adyma/Desktop/fic/ALU.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@a@l@u
+!s100 O1LmnIFbNjR^bhfKM6A2Q2
+!s85 0
+!s101 -O0
+vCU
+I6T^JiO6l`]VgcN1ZRZdn=3
+VIo56M6P<MdNA6>I@_eHjC3
+R4
+w1704962346
+8C:/Users/adyma/Desktop/fic/CU.v
+FC:/Users/adyma/Desktop/fic/CU.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@c@u
+!s100 4]K5`zZ02KG5b4_MZ44cd3
+!s85 0
+!s101 -O0
+vDM
+Il28fYDHJF;P^DPXFi<QH^0
+Ve[KblQl342_S`fhOHShP43
+R4
+w1704906990
+8C:/Users/adyma/Desktop/fic/DM.v
+FC:/Users/adyma/Desktop/fic/DM.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@d@m
+!s100 c>S2E9111;AB^V7158F[P1
+!s85 0
+!s101 -O0
+vFLAGS
+IGUIn[@4nBhlWMLMZ5GmYd1
+VA1hhQQN7Om_7QDGI[WhSX1
+R4
+w1704466624
+8C:/Users/adyma/Desktop/fic/FLAGS.v
+FC:/Users/adyma/Desktop/fic/FLAGS.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@f@l@a@g@s
+!s100 TeOYSHLHdTXIcQm5doOf?1
+!s85 0
+!s101 -O0
+vIM
+IgdI:KFFWM>IGT32m?EU2;1
+VPe?]T@Lo0;TbkdgJ<LQlF1
+R4
+w1704907184
+8C:/Users/adyma/Desktop/fic/IM.v
+FC:/Users/adyma/Desktop/fic/IM.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@i@m
+!s100 L@7j<NFo8RCXzL_@M<ai53
+!s85 0
+!s101 -O0
+vIR
+IDB4B0D0jjDT>@Sf7hlDQ[2
+VZPR1VP]dm6W0`SVCJXO=K1
+R4
+w1704466709
+8C:/Users/adyma/Desktop/fic/IR.v
+FC:/Users/adyma/Desktop/fic/IR.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@i@r
+!s100 ClC0=GJn8BKLNS3GCBX102
+!s85 0
+!s101 -O0
+vPC
+IkzhSEVlcGPI_LT5J<NT@X3
+VkJEULJ@2k6dgJH[0LmmK?3
+R4
+w1704963659
+8C:/Users/adyma/Desktop/fic/PC.v
+FC:/Users/adyma/Desktop/fic/PC.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@p@c
+!s100 hdAC?DP:jJ[gKiQ5V2Nzm0
+!s85 0
+!s101 -O0
+vPCInputDecider
+IejKa84GPZmMNV]_H3<M6k0
+VzWPS;CR3di2gb^hifeT`40
+R4
+w1704907013
+8C:/Users/adyma/Desktop/fic/PCInputDecider.v
+FC:/Users/adyma/Desktop/fic/PCInputDecider.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@p@c@input@decider
+!s100 flg5YDlDF2]><2LMXb3a;2
+!s85 0
+!s101 -O0
+vREG_DM_ADDRESS_MUX
+I=PFa:P@noMHoj8fXGh?d61
+V]EL2`7^XTdCJ7T^YFRWNf0
+R4
+w1704907854
+8C:/Users/adyma/Desktop/fic/REG_DM_ADDRESS_MUX.v
+FC:/Users/adyma/Desktop/fic/REG_DM_ADDRESS_MUX.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@r@e@g_@d@m_@a@d@d@r@e@s@s_@m@u@x
+!s100 9ZV8U;zlbW4RP7R;=k0zM1
+!s85 0
+!s101 -O0
+vREG_DM_IN_MUX
+IeA79cn5fja1FAaIUB[ih11
+V]?8Kj0[XS`Fi08hVJi[e[0
+R4
+w1704907771
+8C:/Users/adyma/Desktop/fic/REG_DM_IN_MUX.v
+FC:/Users/adyma/Desktop/fic/REG_DM_IN_MUX.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@r@e@g_@d@m_@i@n_@m@u@x
+!s100 :1i:bm=kU;Af90dW9dEli1
+!s85 0
+!s101 -O0
+vREG_WR_MUX
+IP53Wi9^6hg=[m=<`Jk89l2
+V4_4M^R@0XVoKL9U<FSUlD1
+R4
+w1701365342
+8C:/Users/adyma/Desktop/fic/REG_WR_MUX.v
+FC:/Users/adyma/Desktop/fic/REG_WR_MUX.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@r@e@g_@w@r_@m@u@x
+!s100 b^cbSZhdBGi]C0cbK1ndc1
+!s85 0
+!s101 -O0
+vSE9x16
+IPX7mkSfQ4OzL>Wm2zUVon0
+VaQa>PGiKc@mWfAV_`LDRR0
+R4
+w1704466766
+8C:/Users/adyma/Desktop/fic/SE9x16.v
+FC:/Users/adyma/Desktop/fic/SE9x16.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@s@e9x16
+!s100 aa970anb]kQL?ge?g49Ti1
+!s85 0
+!s101 -O0
+vSP
+II[Jj2=T?_HIUWA8J=hW<i2
+VNN:<@8LfDQ<;iPmB^@[hz0
+R4
+w1704466801
+8C:/Users/adyma/Desktop/fic/SP.v
+FC:/Users/adyma/Desktop/fic/SP.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@s@p
+!s100 C4mk<V4RlhPNZhiNl3RRa2
+!s85 0
+!s101 -O0
+vtop
+IUUX_4nzS6o3jFiD7i5cg^3
+VCS`:UbVMcNfF?nKfKBYYJ0
+R4
+w1703600535
+8C:/Users/adyma/Desktop/fic/top.v
+FC:/Users/adyma/Desktop/fic/top.v
+L0 1
+R1
+r1
+31
+R2
+R3
+!s100 NEOdVJ71WEl:FVolLQmA`1
+!s85 0
+!s101 -O0
+vtop_tb
+IS`?e4CACWORj@T5mN@9db1
+VN7^ihbmI9enFg9D=Qco243
+R4
+w1704960544
+8C:/Users/adyma/Desktop/fic/top_tb.v
+FC:/Users/adyma/Desktop/fic/top_tb.v
+L0 1
+R1
+r1
+31
+R2
+R3
+!s100 kjTdzPD6UOLiW@XYBf1>_3
+!s85 0
+!s101 -O0
+vX
+IW1R5L;k38WQF4B6Rh68QE2
+V8zXzmNf4JKG5STWYUDhEA2
+R4
+w1704466501
+8C:/Users/adyma/Desktop/fic/X.v
+FC:/Users/adyma/Desktop/fic/X.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@x
+!s100 FNV<PnTK3Fc21k>R<;XCg0
+!s85 0
+!s101 -O0
+vY
+IT2c59KN>=ZgG_W>PBQ:bn0
+VcbNdb:YKCaDIk58^QzlI10
+R4
+w1704466517
+8C:/Users/adyma/Desktop/fic/Y.v
+FC:/Users/adyma/Desktop/fic/Y.v
+L0 1
+R1
+r1
+31
+R2
+R3
+n@y
+!s100 W`g04G75_imHboG<>YQjB1
+!s85 0
+!s101 -O0
+vZE10x16
+!s100 j_L?<O5DnB<f5C^UZ=`W10
+I9:0U:gK@8Jakl8c;>N2;z3
+V4i@dFc1KZTYYzf:O:4K=^0
+R4
+w1704466543
+8C:/Users/adyma/Desktop/fic/ZE10x16.v
+FC:/Users/adyma/Desktop/fic/ZE10x16.v
+L0 1
+R1
+r1
+!s85 0
+31
+!s101 -O0
+R2
+R3
+n@z@e10x16
