@@ -1,0 +1,134 @@
+C:/Users/adyma/Desktop/fic/top.v {1 {vlog -work work -nocovercells C:/Users/adyma/Desktop/fic/top.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module top
+
+Top level modules:
+	top
+
+} {} {}} C:/Users/adyma/Desktop/fic/SP.v {1 {vlog -work work -nocovercells C:/Users/adyma/Desktop/fic/SP.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module SP
+
+Top level modules:
+	SP
+
+} {} {}} C:/Users/adyma/Desktop/fic/REG_DM_IN_MUX.v {1 {vlog -work work -nocovercells C:/Users/adyma/Desktop/fic/REG_DM_IN_MUX.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module REG_DM_IN_MUX
+
+Top level modules:
+	REG_DM_IN_MUX
+
+} {} {}} C:/Users/adyma/Desktop/fic/IM.v {1 {vlog -work work -nocovercells C:/Users/adyma/Desktop/fic/IM.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module IM
+
+Top level modules:
+	IM
+
+} {} {}} C:/Users/adyma/Desktop/fic/ZE10x16.v {1 {vlog -work work -nocovercells C:/Users/adyma/Desktop/fic/ZE10x16.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module ZE10x16
+
+Top level modules:
+	ZE10x16
+
+} {} {}} C:/Users/adyma/Desktop/fic/ACC.v {1 {vlog -work work -nocovercells C:/Users/adyma/Desktop/fic/ACC.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module ACC
+
+Top level modules:
+	ACC
+
+} {} {}} C:/Users/adyma/Desktop/fic/REG_WR_MUX.v {1 {vlog -work work -nocovercells C:/Users/adyma/Desktop/fic/REG_WR_MUX.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module REG_WR_MUX
+
+Top level modules:
+	REG_WR_MUX
+
+} {} {}} C:/Users/adyma/Desktop/fic/CU.v {1 {vlog -work work -nocovercells C:/Users/adyma/Desktop/fic/CU.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module CU
+
+Top level modules:
+	CU
+
+} {} {}} C:/Users/adyma/Desktop/fic/DM.v {1 {vlog -work work -nocovercells C:/Users/adyma/Desktop/fic/DM.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module DM
+
+Top level modules:
+	DM
+
+} {} {}} C:/Users/adyma/Desktop/fic/ALU.v {1 {vlog -work work -nocovercells C:/Users/adyma/Desktop/fic/ALU.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/adyma/Desktop/fic/PC.v {1 {vlog -work work -nocovercells C:/Users/adyma/Desktop/fic/PC.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} C:/Users/adyma/Desktop/fic/IR.v {1 {vlog -work work -nocovercells C:/Users/adyma/Desktop/fic/IR.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module IR
+
+Top level modules:
+	IR
+
+} {} {}} C:/Users/adyma/Desktop/fic/PCInputDecider.v {1 {vlog -work work -nocovercells C:/Users/adyma/Desktop/fic/PCInputDecider.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module PCInputDecider
+
+Top level modules:
+	PCInputDecider
+
+} {} {}} C:/Users/adyma/Desktop/fic/REG_DM_ADDRESS_MUX.v {1 {vlog -work work -nocovercells C:/Users/adyma/Desktop/fic/REG_DM_ADDRESS_MUX.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module REG_DM_ADDRESS_MUX
+
+Top level modules:
+	REG_DM_ADDRESS_MUX
+
+} {} {}} C:/Users/adyma/Desktop/fic/FLAGS.v {1 {vlog -work work -nocovercells C:/Users/adyma/Desktop/fic/FLAGS.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module FLAGS
+
+Top level modules:
+	FLAGS
+
+} {} {}} C:/Users/adyma/Desktop/fic/X.v {1 {vlog -work work -nocovercells C:/Users/adyma/Desktop/fic/X.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module X
+
+Top level modules:
+	X
+
+} {} {}} C:/Users/adyma/Desktop/fic/top_tb.v {1 {vlog -work work -nocovercells C:/Users/adyma/Desktop/fic/top_tb.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module top_tb
+
+Top level modules:
+	top_tb
+
+} {} {}} C:/Users/adyma/Desktop/fic/SE9x16.v {1 {vlog -work work -nocovercells C:/Users/adyma/Desktop/fic/SE9x16.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module SE9x16
+
+Top level modules:
+	SE9x16
+
+} {} {}} C:/Users/adyma/Desktop/fic/Y.v {1 {vlog -work work -nocovercells C:/Users/adyma/Desktop/fic/Y.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module Y
+
+Top level modules:
+	Y
+
+} {} {}}
